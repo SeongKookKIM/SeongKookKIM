@@ -1,3 +1,3 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=250&section=header&text=SeongKook%20GitHub&fontSize=70&animation=scaleIn&fontColor=FFFFFF)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongKookKIM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- Tech Stack -
