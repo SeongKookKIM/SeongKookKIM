@@ -27,7 +27,7 @@
 
   <h3 align="center"> - About Me - </h3>
   <p align="center">
-    <a href="https://sam-blog.site"><img src="https://img.shields.io/badge/Blogger-FFFFFF?style=flat&logo=Blogger&logoColor=white&link=https://sam-blog.site"/></a>&nbsp
+    <a href="https://sam-blog.site"><img src="https://img.shields.io/badge/Blogger-#2D8C3C?style=flat&logo=Blog&logoColor=white&link=https://sam-blog.site"/></a>&nbsp
     <a href="https://www.instagram.com/seongkook_sam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bowling_kyu/"/></a>&nbsp
   </p>
 
