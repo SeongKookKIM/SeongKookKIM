@@ -1,6 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=250&section=header&text=SeongKook%20GitHub&fontSize=70&animation=scaleIn&fontColor=FFFFFF)
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=250&section=header&text=SeongKook%20GitHub&fontSize=70&animation=scaleIn&fontColor=FFFFFF)
-
   <h3 align="center">- Teck Stack -</h3>
   <p align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> &nbsp
@@ -28,7 +27,7 @@
 
   <h3 align="center"> - About Me - </h3>
   <p align="center">
-    <a href="https://sam-blog.site">Blog</a>&nbsp
+    <a href="https://sam-blog.site"><img src="https://img.shields.io/badge?style=flat&link=https://www.instagram.com/bowling_kyu/"/></a>&nbsp
     <a href="https://www.instagram.com/seongkook_sam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bowling_kyu/"/></a>&nbsp
   </p>
 
