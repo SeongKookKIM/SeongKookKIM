@@ -1,6 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=250&section=header&text=SeongKook%20GitHub&fontSize=70&animation=scaleIn&fontColor=FFFFFF)
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=250&section=header&text=SeongKook%20GitHub&fontSize=70&animation=scaleIn&fontColor=FFFFFF)
-
   <h3 align="center">- Teck Stack -</h3>
   <p align="center">
       <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/>&nbsp
